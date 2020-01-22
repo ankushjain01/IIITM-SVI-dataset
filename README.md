@@ -3,7 +3,7 @@ It is a database that consists of 8 images of 4 different subjects captured unde
 
 # Sample image of different subjects
 
-![alt text](https://raw.githubusercontent.com/ankushjain01/IIITM-CIDMR-SVI-dataset/sample.png)
+![alt text](https://github.com/ankushjain01/IIITM-CIDMR-SVI-dataset/blob/master/sample.png)
 
 # Citation
 If you use our dataset in your research work, please cite the following paper.
