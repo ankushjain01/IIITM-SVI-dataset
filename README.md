@@ -11,13 +11,13 @@ Here, first four images are captured at far distance, whereas the rest are captu
 If you use our dataset in your research work, please cite the following paper.
 
 @article{NAGAR2020102667,<br/>
-title = "Pixel-wise dictionary learning based locality-constrained representation for noise robust face hallucination",<br/>
-journal = "Digital Signal Processing",<br/>
-pages = "102667",<br/>
-year = "2020",<br/>
-issn = "1051-2004",<br/>
-doi = "https://doi.org/10.1016/j.dsp.2020.102667",<br/>
-url = "http://www.sciencedirect.com/science/article/pii/S1051200420300129",<br/>
-author = "Surendra Nagar and Ankush Jain and Pramod Kumar Singh and Ajay Kumar",<br/>
-keywords = "Dictionary learning, Face hallucination, Impulse noise, Locality-constrained representation, Thresholding",<br/>
+&nbsp;   &nbsp; title = "Pixel-wise dictionary learning based locality-constrained representation for noise robust face hallucination",<br/>
+&nbsp;   &nbsp; journal = "Digital Signal Processing",<br/>
+&nbsp;   &nbsp; pages = "102667",<br/>
+&nbsp;   &nbsp; year = "2020",<br/>
+&nbsp;   &nbsp; issn = "1051-2004",<br/>
+&nbsp;   &nbsp; doi = "https://doi.org/10.1016/j.dsp.2020.102667",<br/>
+&nbsp;   &nbsp; url = "http://www.sciencedirect.com/science/article/pii/S1051200420300129",<br/>
+&nbsp;   &nbsp; author = "Surendra Nagar and Ankush Jain and Pramod Kumar Singh and Ajay Kumar",<br/>
+&nbsp;   &nbsp; keywords = "Dictionary learning, Face hallucination, Impulse noise, Locality-constrained representation, Thresholding",<br/>
 }
