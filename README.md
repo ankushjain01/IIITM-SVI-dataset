@@ -5,6 +5,8 @@ It is a database that consists of 8 images of 4 different subjects captured unde
 
 ![alt text](https://github.com/ankushjain01/IIITM-CIDMR-SVI-dataset/blob/master/sample.png)
 
+Here, first four images are captured at far distance, whereas the rest are captured at near distance of subject from the surveillance camera.
+
 # Citation
 If you use our dataset in your research work, please cite the following paper.
 
