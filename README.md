@@ -1,5 +1,5 @@
 # IIITM-SVI-dataset
-It is a database that consists of 8 images of 4 different subjects captured under different camera distances (near and far) at ABV-Indian Institute of Information Technology and Management, Gwalior.
+Dataset that contains several images of 4 different subjects captured under different camera distances (near and far) at ABV-Indian Institute of Information Technology and Management, Gwalior.
 
 # Sample image of different subjects
 
