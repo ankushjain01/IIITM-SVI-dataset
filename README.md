@@ -21,3 +21,8 @@ If you use our dataset in your research work, please cite the following paper.
 &nbsp;   &nbsp; author = "Surendra Nagar and Ankush Jain and Pramod Kumar Singh and Ajay Kumar",<br/>
 &nbsp;   &nbsp; keywords = "Dictionary learning, Face hallucination, Impulse noise, Locality-constrained representation, Thresholding",<br/>
 }
+
+# Note:
+
+The matlab source code of mentioned work is available on email request. <br/>
+Email-Ids: nagar.surendra@outlook.com, ankushjain088@gmail.com
