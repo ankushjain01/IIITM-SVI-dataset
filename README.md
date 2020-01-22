@@ -24,5 +24,5 @@ If you use our dataset in your research work, please cite the following paper.
 
 # Note:
 
-The matlab source code of mentioned work is available on email request. <br/>
+The matlab source code of above paper is available on email request. <br/>
 Email-Ids: nagar.surendra@outlook.com, ankushjain088@gmail.com
